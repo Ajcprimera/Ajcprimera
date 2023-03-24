@@ -1,6 +1,8 @@
 # About me :thinking:
 
-**Ajcprimera/Ajcprimera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate student of Jose Antonio Paez University, looking forward to backend development, always trying to be update with the technologies and programming development, making projects for my portfolio and also practicing and pulling my skills, if you want to know little bit more about me, you can check "[Albert Carruido][Linkedln]" linkedin profile.
+
+
 
 Here are some ideas to get you started:
 
