@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 # About me :thinking:
-
-=======
-# Hi there 👋
->>>>>>> dc234eba0612794e0e1597a04fb639e069331b37
 
 **Ajcprimera/Ajcprimera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
