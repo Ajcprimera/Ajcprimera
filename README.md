@@ -3,17 +3,9 @@
 I'm a passionate student of Jose Antonio Paez University, looking forward to backend development, always trying to be update with the technologies and programming development, making projects for my portfolio and also practicing and pulling my skills, if you want to know little bit more about me, you can check my linkedin profile.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/albert-carruido/">
-    <img alt="LinkedIn profile" title="LinkedIn" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
-  <a href="https://www.youtube.com/c/DevProTips">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/DenverCoder1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Ajcprimera?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/albert-carruido-50612b210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/albert-carruido-50612b210/" height="30" width="40" /></a>
 </p>
+
 
 
 
