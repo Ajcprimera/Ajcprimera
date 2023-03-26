@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" alt="Backend" width="300" src="https://github.com/Ajcprimera/Ajcprimera/blob/main/backend.png">
+<img align="center" alt="Backend" width="200" src="https://github.com/Ajcprimera/Ajcprimera/blob/main/backend.png">
 </p>
 
 <p align="center">
