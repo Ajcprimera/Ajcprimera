@@ -1,5 +1,3 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
-
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&pause=500&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B%2C+my+name+is+Albert+Carruido;I'm+a+junior+backend+developer" alt="Typing SVG" /></a>
 </p>
