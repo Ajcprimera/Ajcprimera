@@ -1,6 +1,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&pause=500&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B%2C+my+name+is+Albert+Carruido;I'm+a+junior+backend+developer" alt="Typing SVG" /></a>
 </p>
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZkNWUyZGU5NmI3YjJjMDI2MzJhNDk1ODM0YzVkNmQyNWQ4YzBiMCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # About me :thinking:
 
