@@ -11,7 +11,7 @@
 
 I'm a passionate student of Jose Antonio Paez University and a junior backend developer, always trying to be update with the technologies and programming development, making projects for my portfolio or practicing and pulling my skills, if you want to know a little bit more about me, you can checkout my linkedin profile.
 
-## Social Media
+## Social Media :email:
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/albert-carruido-50612b210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/albert-carruido-50612b210/" height="25" width="35" /></a>
 <a href="https://instagram.com/albert_jose12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="albert_jose12" height="25" width="35" /></a>
