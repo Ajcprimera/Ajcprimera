@@ -22,7 +22,8 @@ From designing WordPress sites to diving deep into backend systems, I discovered
 ▸ CMS & Web: WordPress (custom plugins, headless setups), HTML/CSS<br>
 ▸ DevOps: Git, Docker, cPanel, basic AWS<br>
 ▸ Testing: Selenium, Pytest<br>
-🏆Why Work With Me?
+
+🏆Why Work With Me?<br>
 ✅ Problem-solver: I thrive in debugging and optimizing legacy systems.<br>
 ✅ Adaptable: From WordPress to microservices, I learn fast and deliver.<br>
 ✅ Detail-oriented: Clean, maintainable code with docs.<br>
