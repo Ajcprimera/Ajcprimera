@@ -17,11 +17,11 @@ From designing WordPress sites to diving deep into backend systems, I discovered
 * Automated workflows with Python scripts, saving dozens of hours in content management.
 
 🛠️Technical Toolkit
-▸ Backend: Python, Django, FastAPI, RESTful APIs
-▸ Databases: PostgreSQL, MySQL, SQL Server (query optimization)
-▸ CMS & Web: WordPress (custom plugins, headless setups), HTML/CSS
-▸ DevOps: Git, Docker, cPanel, basic AWS
-▸ Testing: Selenium, Pytest
+▸ Backend: Python, Django, FastAPI, RESTful APIs<br>
+▸ Databases: PostgreSQL, MySQL, SQL Server (query optimization)<br>
+▸ CMS & Web: WordPress (custom plugins, headless setups), HTML/CSS<br>
+▸ DevOps: Git, Docker, cPanel, basic AWS<br>
+▸ Testing: Selenium, Pytest<br>
 🏆Why Work With Me?
 ✅ Problem-solver: I thrive in debugging and optimizing legacy systems.
 ✅ Adaptable: From WordPress to microservices, I learn fast and deliver.
