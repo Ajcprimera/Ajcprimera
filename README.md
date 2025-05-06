@@ -34,4 +34,4 @@ I'm a passionate student of Jose Antonio Paez University and a junior backend de
 ### Stats :stars:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajcprimera&show_icons=true&locale=en" alt="ajcprimera" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajcprimera&" alt="ajcprimera" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajcprimera" alt="ajcprimera" /></p>
