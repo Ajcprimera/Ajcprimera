@@ -9,7 +9,26 @@
 
 # About me :thinking:
 
-I'm a passionate student of Jose Antonio Paez University and a junior backend developer, always trying to be update with the technologies and programming development, making projects for my portfolio or practicing and pulling my skills, if you want to know a little bit more about me, you can checkout my linkedin profile.
+I build scalable APIs and bridge CMS systems with modern backend architectures — blending my WordPress expertise with robust Python development.
+
+🚀My Journey
+From designing WordPress sites to diving deep into backend systems, I discovered my passion for solving complex problems with code during university. Since then, I’ve:
+* Developed high-performance APIs (Django/FastAPI) for web applications.
+* Automated workflows with Python scripts, saving dozens of hours in content management.
+
+🛠️Technical Toolkit
+▸ Backend: Python, Django, FastAPI, RESTful APIs
+▸ Databases: PostgreSQL, MySQL, SQL Server (query optimization)
+▸ CMS & Web: WordPress (custom plugins, headless setups), HTML/CSS
+▸ DevOps: Git, Docker, cPanel, basic AWS
+▸ Testing: Selenium, Pytest
+🏆Why Work With Me?
+✅ Problem-solver: I thrive in debugging and optimizing legacy systems.
+✅ Adaptable: From WordPress to microservices, I learn fast and deliver.
+✅ Detail-oriented: Clean, maintainable code with docs.
+
+Open to new backend opportunities — especially where my CMS integration skills add unique value. Let’s chat! 📥
+
 
 ## Social Media :email:
 <p align="left">
